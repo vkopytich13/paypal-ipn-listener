@@ -1,5 +1,5 @@
 {
-  "name": "mike182uk/paypal-ipn-listener",
+  "name": "vkopytich13/paypal-ipn-listener",
   "type": "library",
   "description": "A PayPal IPN (Instant Payment Notification) listener for PHP",
   "keywords": [
